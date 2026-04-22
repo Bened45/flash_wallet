@@ -57,15 +57,6 @@ Flutter App
 
 ---
 
-## Axis 2 — Merchant SDK
-
-- **Repo**: [flash-sdk link]
-- **NPM**: flash-sdk
-- **Dashboard**: [dashboard link]
-- **Demo store**: Chez Akossiwa
-
----
-
 ## Axis 3 — Onboarding
 
 3 onboarding slides built into the Flutter wallet:

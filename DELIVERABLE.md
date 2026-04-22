@@ -9,7 +9,7 @@ https://github.com/Bened45/flash_wallet
 
 ## Demo Video
 
-[To be completed after recording]
+https://drive.google.com/file/d/1vAjvilz8052EHydzJ9UYvnBeu08MHaL8/view?usp=sharing
 
 ---
 
